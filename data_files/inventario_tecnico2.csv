@@ -1,0 +1,106 @@
+﻿No.,ID de pantalla,,Orientacion,Pantallas,Nuc Optimo / Vulnerable,Nuc,Redundancia,Estado Redundancia,SD 300 Nova star,Estado SD 300 Nova star,UPS Cyberpower,Estado UPS Cyberpower,Internet Fibra optica,Camara,Estado Camara,POE,Estado POE,Interruptor termomagnetico 3x100 amp,Interruptor termomagnetico 2x20 amp,Fecha renovación tecnológica pantalla,Marca,Pitch,Numero de gabinetes,Medida de pantalla en m2
+1,MX_CM_VV_COL_414,414,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Amicibro,P 6,16,14.74
+2,MX_CM_VV_COL_414,414,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,"viernes, 24 de abril de 2026",Amicibro,P 6,16,14.74
+3,MX_CM_VV_COL_419,419,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Amicibro,P 6,16,14.74
+4,MX_CM_VV_COL_419,419,Sur,1,Optimo,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,"viernes, 24 de abril de 2026",Amicibro,P 6,16,14.74
+5,MX_CM_VV_COL_440,440,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Amicibro,P 6,16,14.74
+6,MX_CM_VV_COL_440,440,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,16,14.74
+7,MX_CM_VV_COL_444,444,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P 10,16,14.74
+8,MX_CM_VV_COL_444,444,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P 10,24,14.74
+9,MX_CM_VV_COL_448,448,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P 10,10,11.2
+10,MX_CM_VV_COL_448,448,Sur,1,Optimo,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P 10,10,11.2
+11,MX_CM_VV_COL_459,459,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P 10,16,14.74
+12,MX_CM_VV_COL_459,459,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P 10,16,14.74
+13,MX_CM_VV_COL_465,465,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P 10,20,16.1
+14,MX_CM_VV_COL_465,465,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P 10,8,12.8
+15,MX_CM_VV_COL_478,478,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P 10,16,14.74
+16,MX_CM_VV_COL_478,478,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P 10,16,14.74
+17,MX_CM_VV_COL_491,491,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P10,16,14.74
+18,MX_CM_VV_COL_491,491,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,"martes, 28 de abril de 2026",Unilumin,P10,16,14.74
+19,MX_CM_VV_COL_505,505,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P10,12,11.05
+20,MX_CM_VV_COL_505,505,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,"martes, 28 de abril de 2026",Unilumin,P10,12,11.05
+21,MX_CM_VV_COL_509,509,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Amicibro,P 6,16,14.74
+22,MX_CM_VV_COL_509,509,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,16,14.74
+23,MX_CM_VV_COL_519,519,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Amicibro,P 6,16,14.74
+24,MX_CM_VV_COL_519,519,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,16,14.74
+25,MX_CM_VV_COL_529,529,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,LiteStar,P 10,16,14.74
+26,MX_CM_VV_COL_529,529,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,LiteStar,P 10,16,14.74
+27,MX_CM_VV_COL_542,542,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,LiteStar,P 10,16,14.74
+28,MX_CM_VV_COL_542,542,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,LiteStar,P 10,16,14.74
+29,MX_CM_VV_COL_551,551,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P10,16,14.74
+30,MX_CM_VV_COL_551,551,Sur,1,Optimo,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,"martes, 28 de abril de 2026",Unilumin,P10,16,14.74
+31,MX_CM_VV_COL_571,571,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,LiteStar,P 10,16,14.74
+32,MX_CM_VV_COL_571,571,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,LiteStar,P 10,16,14.74
+33,MX_CM_VV_COL_576,576,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,LiteStar,P 10,16,14.74
+34,MX_CM_VV_COL_576,576,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,LiteStar,P 10,16,14.74
+35,MX_CM_VV_COL_588,588,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,LiteStar,P 10,16,14.74
+36,MX_CM_VV_COL_588,588,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,LiteStar,P 10,16,14.74
+37,MX_CM_VV_COL_594,594,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,LiteStar,P 10,16,14.74
+38,MX_CM_VV_COL_594,594,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,LiteStar,P 10,16,14.74
+39,MX_CM_VV_COL_606,606,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P10,16,14.74
+40,MX_CM_VV_COL_606,606,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,"jueves, 30 de abril de 2026",Unilumin,P10,16,14.74
+41,MX_CM_VV_COL_620,620,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P10,16,14.74
+42,MX_CM_VV_COL_620,620,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,"jueves, 30 de abril de 2026",Unilumin,P10,16,14.74
+43,MX_CM_VV_COL_628,628,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P10,16,14.74
+44,MX_CM_VV_COL_628,628,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,"jueves, 30 de abril de 2026",Unilumin,P10,16,14.74
+45,MX_CM_VV_COL_639,639,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Amicibro,P 6,16,14.74
+46,MX_CM_VV_COL_639,639,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,"lunes, 4 de mayo de 2026",Amicibro,P 6,16,14.74
+47,MX_CM_VV_COL_641,641,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P10,16,14.74
+48,MX_CM_VV_COL_641,641,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,"lunes, 4 de mayo de 2026",Unilumin,P10,16,14.74
+49,MX_CM_VV_COL_651,651,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"viernes, 10 de abril de 2026",Unilumin,P10,16,14.74
+50,MX_CM_VV_COL_651,651,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,N/A,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,16,14.74
+51,MX_CM_VV_COL_656,656,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Amicibro,P 6,12,11.05
+52,MX_CM_VV_COL_656,656,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,12,11.05
+53,MX_CM_VV_COL_661,661,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"viernes, 10 de abril de 2026",Amicibro,P 6,16,14.74
+54,MX_CM_VV_COL_661,661,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,16,14.74
+55,MX_CM_VV_COL_665,665,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P10,16,14.74
+56,MX_CM_VV_COL_665,665,Sur,1,Optimo,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,"lunes, 4 de mayo de 2026",Unilumin,P10,16,14.74
+57,MX_CM_VV_COL_669,669,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"martes, 14 de abril de 2026",Unilumin,P10,16,14.74
+58,MX_CM_VV_COL_669,669,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,16,14.74
+59,MX_CM_VV_COL_679,679,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Amicibro,P 6,12,11.05
+60,MX_CM_VV_COL_679,679,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,12,11.05
+61,MX_CM_VV_COL_689,689,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Amicibro,P 6,16,14.74
+62,MX_CM_VV_COL_689,689,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,16,14.74
+63,MX_CM_VV_COL_706,706,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Amicibro,P 6,16,14.74
+64,MX_CM_VV_COL_706,706,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,16,14.74
+65,MX_CM_VV_COL_715,715,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"martes, 14 de abril de 2026",Unilumin,P10,16,14.74
+66,MX_CM_VV_COL_715,715,Sur,1,Optimo,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,16,14.74
+67,MX_CM_VV_COL_735,735,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,LiteStar,P 10,16,14.74
+68,MX_CM_VV_COL_735,735,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,LiteStar,P 10,16,14.74
+69,MX_CM_VV_COL_748,748,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Unilumin,P 10,16,14.74
+70,MX_CM_VV_COL_748,748,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P 10,16,14.74
+71,MX_CM_VV_COL_756,756,Norte,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,12,11.05
+73,MX_CM_VV_COL_767,767,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,LiteStar,P 10,12,11.05
+74,MX_CM_VV_COL_767,767,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,LiteStar,P 10,12,11.05
+75,MX_CM_VV_COL_778,778,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,LiteStar,P 10,12,11.05
+76,MX_CM_VV_COL_778,778,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,LiteStar,P 10,12,11.05
+77,MX_CM_VV_COL_791,791,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"martes, 14 de abril de 2026",Unilumin,P10,16,14.74
+78,MX_CM_VV_COL_791,791,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,16,14.74
+79,MX_CM_VV_COL_802,802,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"jueves, 16 de abril de 2026",Unilumin,P10,16,14.74
+80,MX_CM_VV_COL_802,802,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,16,14.74
+81,MX_CM_VV_COL_811,811,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"jueves, 16 de abril de 2026",Amicibro,P 6,16,14.74
+82,MX_CM_VV_COL_811,811,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,12,11.05
+83,MX_CM_VV_COL_820,820,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"jueves, 16 de abril de 2026",Unilumin,P10,16,14.74
+84,MX_CM_VV_COL_820,820,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,16,14.74
+85,MX_CM_VV_COL_829,829,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"lunes, 20 de abril de 2026",Amicibro,P 6,12,11.05
+86,MX_CM_VV_COL_829,829,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,12,11.05
+87,MX_CM_VV_COL_840,840,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,,Amicibro,P 6,16,14.74
+88,MX_CM_VV_COL_840,840,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Amicibro,P 6,16,14.74
+89,MX_CM_VV_COL_856,856,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"lunes, 20 de abril de 2026",Unilumin,P10,12,11.05
+90,MX_CM_VV_COL_856,856,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,12,11.05
+91,MX_CM_VV_COL_863,863,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"lunes, 20 de abril de 2026",Unilumin,P10,12,11.05
+92,MX_CM_VV_COL_863,863,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,12,11.05
+93,MX_CM_VV_COL_867,867,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"miércoles, 22 de abril de 2026",Unilumin,P10,12,11.05
+94,MX_CM_VV_COL_867,867,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,12,11.05
+95,MX_CM_VV_COL_877,877,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"miércoles, 22 de abril de 2026",Unilumin,P10,16,14.74
+96,MX_CM_VV_COL_877,877,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,16,14.74
+97,MX_CM_VV_COL_881,881,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"miércoles, 22 de abril de 2026",Unilumin,P10,16,14.74
+98,MX_CM_VV_COL_881,881,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,16,14.74
+99,MX_CM_VV_COL_897,897,Norte,1,,,,,,,,,,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,,,"viernes, 24 de abril de 2026",Unilumin,P10,12,11.05
+100,MX_CM_VV_COL_897,897,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P10,12,11.05
+101,MX_CM_VV_POR_0008,,Norte,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P 6,56,35.7
+102,MX_CM_VV_POR_0015,,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2CD2643G2,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P 6,56,35.7
+103,MX_CM_VV_POR_0078,,Norte,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2DE4225IW,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P 6,56,35.7
+104,MX_CM_VV_POR_0092,,Sur,1,Vulnerable,Nuc,Teltonika 955,Optimo,SD 300,Vulnerable,UPS,Optimo,Internet Fibra optica,Hikvision DS-2DE4225IW,Vulnerable,UTEPO,Vulnerable,1,8,,Unilumin,P 6,56,35.7
+,,,,,,,,,,,,,,,,,,,,,,,,
+Totales,,,,103,,54,54,,54,,54,,53,103,,103,,54,432,,,,,
