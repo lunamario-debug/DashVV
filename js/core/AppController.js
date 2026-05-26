@@ -178,8 +178,12 @@ export default class AppController {
         const root = document.documentElement;
         const colors = { eco: '--eco-main', vv: '--vv-main', bb: '--bb-main' };
         const lights = { eco: '--eco-light', vv: '--vv-light', bb: '--bb-light' };
-        const logos = { eco: 'assets/logos/ecovallas.png', vv: 'assets/logos/viaverde.png', bb: 'assets/logos/biobox.png' };
-        root.style.setProperty('--theme-color', `var(${colors[theme]})`);
+
+const logos = { 
+    eco: 'https://jxwdncxtnhmrufvdxuti.supabase.co/storage/v1/object/public/banners-publicos/ecovallas.png', 
+    vv: 'https://jxwdncxtnhmrufvdxuti.supabase.co/storage/v1/object/public/banners-publicos/viaverde.png', 
+    bb: 'https://jxwdncxtnhmrufvdxuti.supabase.co/storage/v1/object/public/banners-publicos/biobox.png' 
+};        root.style.setProperty('--theme-color', `var(${colors[theme]})`);
         root.style.setProperty('--theme-light', `var(${lights[theme]})`);
         const lblUnidad = document.getElementById('lbl-unidad');
         if (lblUnidad) {
